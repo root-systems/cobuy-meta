@@ -22,6 +22,8 @@ group wholesale purchases as a consumer co-op
 ### episode V: my.enspiral strikes back
 
 - members pay for their orders
-- ...
 
 ### episode VI: the return of the holodex
+
+- groups connect for larger orders
+- ...?
