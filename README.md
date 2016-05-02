@@ -3,6 +3,8 @@
 group wholesale purchases as a consumer co-op
 
 (Cobuy Google Drive)[https://drive.google.com/folderview?id=0BzzPde2Zi5HDMkk0NGtFQlhKREk&usp=sharing]
+(Github - csv-firebase for pricelist)[https://github.com/sarah-arrrgh/csv-firebase]
+(Github - firebase-view for pricelist)[https://github.com/sarah-arrrgh/firebase-view]
 
 ## process
 
