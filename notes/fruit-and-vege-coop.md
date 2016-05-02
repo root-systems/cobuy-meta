@@ -1,6 +1,6 @@
 # Fruit and Vege Co-op
 
-## process
+## current process
 
 weekly rhythm
 
@@ -29,4 +29,4 @@ weekly rhythm
 - payment tracking
 - availability of supplier inventory
 - admin spends roughly one hour per day of the week, for only $30 total
-- difficult to jump into admin role
+- difficult to jump into admin role, big learning curve

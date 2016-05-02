@@ -2,6 +2,8 @@
 
 group wholesale purchases as a consumer co-op
 
+(Cobuy Google Drive)[https://drive.google.com/folderview?id=0BzzPde2Zi5HDMkk0NGtFQlhKREk&usp=sharing]
+
 ## process
 
 ### episode IV: a new twerk

@@ -15,7 +15,7 @@
 - where is our place in the overall system? (how do we do our part and come together?)
 - lots of unexpected spin-offs tht arise from food that are unrelated to food (networking without networking, community)
 - mutally beneficial relationships not just between people but also groups
-- enable, inspire but not requier, inclusivity
+- enable, inspire but not require, inclusivity
 - allow for peope who work full-time, have families
 - visible (cooking) vs invisible (admin) skills, give credit for effort
 - time banking without give and take hours, possible between strangers
