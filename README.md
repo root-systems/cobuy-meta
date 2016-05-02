@@ -2,10 +2,10 @@
 
 group wholesale purchases as a consumer co-op
 
-(Cobuy Google Drive)[https://drive.google.com/folderview?id=0BzzPde2Zi5HDMkk0NGtFQlhKREk&usp=sharing]
-(Github - hackweek-coop)[https://github.com/sarah-arrrgh/hackweek-coop]
-(Github - csv-firebase for pricelist)[https://github.com/sarah-arrrgh/csv-firebase]
-(Github - firebase-view for pricelist)[https://github.com/sarah-arrrgh/firebase-view]
+[Cobuy Google Drive](https://drive.google.com/folderview?id=0BzzPde2Zi5HDMkk0NGtFQlhKREk&usp=sharing)
+[Github - hackweek-coop](https://github.com/sarah-arrrgh/hackweek-coop)
+[Github - csv-firebase for pricelist](https://github.com/sarah-arrrgh/csv-firebase)
+[Github - firebase-view for pricelist](https://github.com/sarah-arrrgh/firebase-view)
 
 ## process
 
@@ -13,7 +13,7 @@ group wholesale purchases as a consumer co-op
 
 - in a group, anyone can become a facilitator of a new order
 - facilitator contacts supplier, receives currently available inventory and respective price
-- facilitator creates / updated associated Resource Types for the order, which includes minimum quantities
+- facilitator creates / updates associated Resource Types for the order, which includes minimum quantities
 - facilitator opens order to rest of members
 - members express their Intent to buy goods, including their preference for "tweaking" process
 - order closes, automagic tweaking, reviewed by facilitator
