@@ -30,3 +30,12 @@ weekly rhythm
 - availability of supplier inventory
 - admin spends roughly one hour per day of the week, for only $30 total
 - difficult to jump into admin role, big learning curve
+
+## how-to videos
+
+- [Doing the order form](https://youtu.be/Lx14gEdZHsA)
+- [Accounts](https://youtu.be/io2b5s0X8is)
+- [Setting up the tweaked order s/s](https://youtu.be/dDppPAuQpGw)
+- [Exporting the order form](https://youtu.be/iiAcFhoyero)
+- [Tweaking](https://youtu.be/q_qoSSchnkM)
+- [Tweaking for two varieties](https://youtu.be/6ee-cQrfs1Y)
