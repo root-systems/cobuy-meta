@@ -198,3 +198,52 @@ members
   - phrase not as charging money but saving money
   - how do we integrate with bank accounts?
 
+## dragons' den
+
+- got contact of well-being officer at VUW co-op
+- uber co-op
+  - is there a way for groups to provider supply chain service offerings?
+    - as in, use Cobuy to provide a food packaging / meal delivery service
+- all co-ops in NZ?
+- value prop: bump up low-income to high quality, for those who otherwise can't afford
+- compare to my food bag's cheap offering
+- provide recipes for how people can cook health food cheaply
+  - "i want these meals this week"
+- what interactions do communities do together?
+  - "how do i cook \_\_\_\_"
+- "i want 5kg of green vegetables for $10"
+  - whatever it is, you'll get $10 worth
+- pre-sale commitments, what community-supported agriculture does for local farms
+- turn-over of supermarkets?
+- need 2,500k customers to reach your 27.5k/month?
+- take thought out of buying food
+- to win, show business is sustainable, validated enough to fly, market size
+- show enough potential or presale customers to sell
+- can you remove the admins?
+  - _the next generation of co-ops_
+- reward your heaviest users the most
+  - example: sell children's clothing at premium, mountain gear at below cost
+  - get rebate based on purchase volume
+  - rebase -> credit at store
+- are we empowering admins to have a sustainable job?
+- what is the business model for a co-op admin in order to have a good job?
+  - how many customers do _they_ need?
+- "you're spending all this time already caring for organic food, why don't you get paid and bring in more friends?"
+- 10% more efficient vs 10x more volume
+- (time rich + money medium) versus (time poor + money rich)
+- how do we use automation and artificial intelligence to create jobs?
+- power to scale and empower people to do valuable work?
+- provide digital infrastructure for others to provide on-demand services to others
+  - admins (neighborhood dad / mum)
+  - regional coordinator
+  - suppliers
+  - packager
+  - cooks
+  - transporters
+- connect suppliers so they are available when an admin starts
+- package in branded packaging
+- takeaways:
+  - higher income people want to pay for convenience
+  - provide the platform for others to sell services and have job
+  - participants: consumers, producers, processors, transporters
+- maybe at first focus on groups doing it together, then later get agents to join who focus on the processing as a value-add service.
