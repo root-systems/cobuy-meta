@@ -1,0 +1,88 @@
+# Krystel
+
+notes transcribed from recorded video
+
+- tell me about your co-op and how you got started
+  - it's about 14 members, we're in Hawera
+  - been running for about 2 years
+  - used to be part of one in Stratford (with 5 members), struggled to meet minimum, wasn't cohesive, was trouble getting orders together
+    - took initiative, started a new group closer to home
+  - just hitting point of being difficult to organize, on the whole been cruisy
+- did it start just as a group of friends, is it still a group of friends?
+  - yes initially
+  - i've kept it close since it goes on my credit card
+  - only those who are known to us
+  - grown by word of mouth
+  - i'm sure if i put it in the paper it'd grow significiantly, but i'm not ready for that
+- is it going smoothly?
+  - yeah, on the whole
+  - i got gifted a spreadsheet
+    - we run it through Google Drive / Spreadsheets
+    - tell people not to mess with the formulas
+    - message me if there's a problem, only a couple people understand to not mess it up
+  - what's worked is we have a secret Facebook group
+    - come order time, tell people to order
+    - "hey i want to go halves here, who wants to go in with me?"
+    - this is how we get orders filled, also as reminder to order
+- can you walk through how an order works for your co-op?
+  - order around the 10th, just because
+  - i try to order on a Monday, so delivery on Thursday / Friday, pick-up over weekend
+  - i'll put up on Facebook first Monday of the month
+    - usually nobody puts order up til Friday
+    - tag people to remind them to get their orders through
+      - takes a lot of time over the weekend to check the spreadsheet
+    - everyone pops their order up over the weekend
+  - Sunday or Monday, go through spreadsheet and re-distribute orders to make them whole
+    - if 3 people want 1/2, change to 3 people get 1/3
+    - if it's a big change, i'll check in with affected people
+  - go on to Ceres portal (so wonderful!), twin screen portal / spreadsheet, enter in details
+    - takes about ~0.5 hours
+    - double check that prices are the same
+    - used to take ~1.5 hours longer before the portal (which came out ~6 months ago)
+      - Ceres wanted a whole order, not half / part orders
+      - had to fix prices once we got invoice, since prices changed month to month, or things that went out of stock
+      - now, once i order, i know all prices, quantities, and postage are correct
+      - before, was waiting a couple weeks for invoices, so payments were more difficult
+- how does your group do payments?
+  - since i'm organizing it, i pre-pay using my credit card
+  - people pay me over the next week or two, i have 4 weeks interest-free so it works out.
+  - as people pay, i tick them off a list
+  - once again, a lot of work (it adds up with lots of little bits of work)
+- have there been issues with tracking payments?
+  - no, but it's because i know everyone
+  - if people have trouble paying, it's chill because i know them, i know they can pay back when they get paid
+  - but this is why it's important to know them
+- for context, other co-ops have shared bank account
+  - i can see that, it actually used to be you could only pay with credit card
+  - now you can pay with direct debit
+  - but this would be a struggle for some of my friends, since the "pay-day factor"
+- do you just use Ceres, or any other suppliers?
+  - just Ceres at the moment
+  - we've looked into it, but we're too small at the moment
+  - when we were smaller, looked into Organic Veges, but minimum order was too much, maybe will look again
+  - Organic Veges is apparently where supermarkets buy from
+  - we do a random honey order from someone local
+  - we've looked into buying bulk olive oil, but wasn't any cheaper
+- what's your main reason for the co-op
+  - i can afford to buy organic, otherwise i wouldn't be able to
+  - through Ceres, because wholesale prices, i can buy organic food for same price as non-organic at supermarket
+  - it's easier, i can buy 3 kg of nuts instead of tiny bags
+  - it's shared across the co-op: important to be cheaper and organic.
+  - most of us are mums with families, we're not just ordering for ourselves but for numbers of people, it adds up
+- what happens when stock arrives?
+  - half a pallet full, gets dropped off in garage or hallway, lines up in boxes
+  - over next day or so, either i or first people to pick-up will split up things
+  - recently got everyone's name of an A4 piece of paper, lay everyone's name on the floor
+  - takes up a bit of space, especially with 14 people, but works and is less confusing
+  - i split every item that i'm a part of the buy (i buy 1kg of cashews, so i'll split the whole 3 kg bag, but won't split item that i didn't buy)
+  - others have been having trouble taking the time to split, and when they do it also takes up my time as they're in my house, so thinking about splitting everything for everyone to make it easier
+  - people come and go all over the weekend, so takes lots of time
+  - usually picked up within a week, but people are geographically all over
+- any wrong orders ever, too much or too less?
+  - no, not often
+  - well, sometimes, but they've been really good at fixing it
+    - got charged for bee pollen, but didn't get any.
+    - went to fix it, but then was already fixed
+  - Ceres are onto it, have had a really good experience
+
+... audio lost :)
