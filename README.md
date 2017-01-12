@@ -1,3 +1,4 @@
+[![Stories in Ready](https://badge.waffle.io/enspiral-root-systems/cobuy.png?label=ready&title=Ready)](https://waffle.io/enspiral-root-systems/cobuy)
 # cobuy
 
 group wholesale purchases as a consumer co-op
@@ -8,7 +9,11 @@ group wholesale purchases as a consumer co-op
 - [github - firebase-view for pricelist](https://github.com/sarah-arrrgh/firebase-view)
 - [trello board](https://trello.com/b/GvnUnz9U/cobuy)
 
-## process
+## purpose
+
+to increase access to affordable goods and services by connecting local communities
+
+## solution
 
 ### episode IV: a new twerk
 

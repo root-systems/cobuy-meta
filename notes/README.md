@@ -6,3 +6,4 @@
 - [dreams](./dreams.md)
 - [app name ideas](./name-ideas.md)
 - [value flows](./value-flows.md)
+- [mikey's notes](./mikey.md)
