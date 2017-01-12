@@ -5,9 +5,10 @@
 ### Agent Types
 
 - Person
-- ConsumerCoop (from Group)
+- Cooperative (from Group)
+- ConsumerCoop (from Cooperative)
 - PurchaseGroup (from Group)
-- Supplier
+- Corporation (from Group)
 
 ### Agents
 
@@ -30,7 +31,7 @@
 
 - hasMember: Group -> Person
 - adminOf: Person -> ConsumerCoop
-- consumesFrom: ConsumerCoop -> Supplier
+- consumesFrom: ConsumerCoop -> Agent (aka 'Supplier')
 - hasChild: parent Group -> child Group
 - facilitates: Person -> PurchaseGroup
 - interestedIn: Person -> PurchaseGroup

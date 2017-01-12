@@ -1,6 +1,9 @@
 # cobuy notes
 
-- [frank's ideas](https://github.com/enspiral-root-systems/cobuy/blob/master/notes/franks-ideas.md)
-- [dreams](https://github.com/enspiral-root-systems/cobuy/blob/master/notes/dreams.md)
-- [app name ideas](https://github.com/enspiral-root-systems/cobuy/blob/master/notes/name-ideas.md)
+- [current dry goods co-op process](./dry-goods-coop.md)
+- [current fruit + vege co-op process](./fruit-and-vege-coop.md)
+- [frank's ideas](./franks-ideas.md)
+- [dreams](./dreams.md)
+- [app name ideas](./name-ideas.md)
+- [value flows](./value-flows.md)
 - [mikey's notes](./mikey.md)
