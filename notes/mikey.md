@@ -247,3 +247,123 @@ members
   - provide the platform for others to sell services and have job
   - participants: consumers, producers, processors, transporters
 - maybe at first focus on groups doing it together, then later get agents to join who focus on the processing as a value-add service.
+
+## ad-hoc-racy
+
+- how can we show that this is a thing that **will** happen and others want
+- get stats on:
+  - how much carbon is produced by landfill waste
+  - how much carbon is in individual packaging
+  - local suppliers cannot access supply chains because of supermarket duopoly
+- here's the total market cap of consumer co-ops in the world
+- here's how many co-ops run through Ceres
+- $1 per order per user
+  - problem is this only incentivizes buying from suppliers with large catalogs
+- email our interviewees with potential business model
+- what will we do with surplus of profit?
+  - MORE CO-OP SOFTWARE!
+- Enspiral is the global leader in fintech (financial technology) for grassroots orgs
+- fill the hole of being just 5 devs
+  - put Damian's face - business expert who sells bespoke solutions
+  - we've built Cobudget, Co-nnection, etc
+  - Josh, Susan
+- we've saved money doing consulting to invest in our product
+- we'll use pledgeme to find our crowd of early adopters
+- internal Enspiral cobudget (collaborative funding)
+
+- Ceres, how do they work?
+  - they're just matching up spreadsheets that they have
+  - there are still buyers with spreadsheets
+  - internally they use xml files?
+
+## Flick marketing with Ants
+
+- people: who are your people?
+  - who are they really?
+  - what do they care about?
+  - what keeps them busy?
+  - stressed?
+  - what are their problems?
+  - what do they enjoy?
+- messages: what are you offering your people?
+  - what have you got to offer them?
+  - why is it useful to them?
+  - why is it important to them?
+- mediums: where do your people need to hear about you?
+  - how do your people learn new things?
+  - what convinces them to buy things?
+  - change behavior?
+  - support things?
+
+- who do we want to engage?
+  - stay-at-home mums / dads
+  - people with special diets
+  - community leaders
+    - sports teams (Bart)
+    - schools / parent groups
+    - special interest groups
+    - churches
+    - work groups
+    - restaurants
+- promise for cheap organic healthy food
+- better choice for specialty food
+- access to affordable organic food
+- connect with your local community
+- foodies
+  - sports team: better nutrition
+  - moms: healthy food for families
+  - special diet: access to cheaper niche food
+- if this market niche doesn't work, can always re-focus
+- niche is good to get off the ground
+- objective?
+  - raise $15k and build a community
+  - build a community who buys $50k per month
+  - 5 consumer co-ops
+  - community of foodies
+  - find co-op admins
+  - find co-op champions
+  - develop story for foodies
+- story for foodies:
+  - find the food you want (can't normally find)
+  - buying bulk high-quality for cheap
+    - affordable + high-quality > convenient
+  - make Moore Wilson's affordable
+  - willing to sacrifice convenience
+- suppliers:
+  - smaller more niche local suppliers want access to market
+    - misshapen fruit
+    - undersized eggs
+    - love food / hate waste
+    - yay ugly food
+  - good, cheap, fast: pick two
+  - we take the pain out of good and cheap
+- mediums:
+  - facebook groups
+  - meetup to talk / meet / get on board
+  - find the super-nodes
+- clear incentives to champion
+  - if buy in bulk, get more reward
+  - frothy co-ops admins, bring co-ops with them
+    - get co-ops to talk to other co-ops
+  - like Dropbox: do 8 things, once done get reward forever (discount)
+  - first founding co-ops get above, like permanent 50% discount
+- keys: know humans in room
+  - practice things to do: dispel myth of devs
+  - can they solve: build enough of a community to get it over the line
+    - 4 or 5 photos of people who are in
+    - gonna need to get more super-nodes
+- rewards
+  - our business model is X, here's the reward
+  - 1 year free
+    - Michael's startup regrets free, maybe half price
+  - better smaller more consistent revenue
+  - tell co-op admins to charge 5% to crowd-fund co-op
+  - get Lila to cook (pledge $10 for an organic cookie made possible by a local co-op)
+  - $1000 to have meal and workshop with us
+  - write letters
+  - hex stickers!
+  - jump in ice water, lol
+  - early adopter rewards: half price for life
+    - does lowering the price allow more volume?
+
+TODO: talk to more cool cats
