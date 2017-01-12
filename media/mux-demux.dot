@@ -1,0 +1,43 @@
+digraph mux {
+  rankdir=LR
+
+  subgraph consumers {
+    node [shape=circle label="😃" fixedsize=true width=1 fontsize=38] 
+    c1; c2; c3; c4; c5; c6; c7; c8;
+    e1; e2; e3; e4; e5; e6; e7; e8;
+  }
+
+  subgraph orders {
+    node [shape=star label="" fixedsize=true width=1]
+    o1; o2; o3; o4; o5; o6; o7; o8;
+
+    O [width=3 label="order" fontsize=32]
+  }
+
+  subgraph shipments {
+    node [shape=square label="" fixedsize=true width=1]
+    s1; s2; s3; s4; s5; s6; s7; s8;
+
+    S [width=3 label="shipment" fontsize=32]
+  }
+
+  c1 -> o1 -> O
+  c2 -> o2 -> O
+  c3 -> o3 -> O
+  c4 -> o4 -> O
+  c5 -> o5 -> O
+  c6 -> o6 -> O
+  c7 -> o7 -> O
+  c8 -> o8 -> O
+
+  O -> S
+
+  S -> s1 -> e1
+  S -> s2 -> e2
+  S -> s3 -> e3
+  S -> s4 -> e4
+  S -> s5 -> e5
+  S -> s6 -> e6
+  S -> s7 -> e7
+  S -> s8 -> e8
+}

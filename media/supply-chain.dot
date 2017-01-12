@@ -1,0 +1,54 @@
+digraph supplyChain {
+
+  subgraph consumers {
+    node [shape=circle label="😃" fixedsize=true width=1 fontsize=38] 
+    c1; c2; c3; c4; c5; c6; c7; c8;
+  }
+
+  subgraph packers {
+    node [shape=tripleoctagon  width=1]
+    p1 [label="▦" fontsize=30];
+    p2 [label="◫" fontsize=30];
+  }
+
+  subgraph warehousers {
+    node [shape=house label="wholesaler"  width=1]
+    w1;
+  }
+
+  subgraph restaurants {
+    node [shape=triangle label="restaurant" width=1]
+    r1; r2;
+  }
+
+  subgraph growers {
+    node [shape=diamond label="grower" width=1]
+    g1; g2; g3;
+  }
+
+  subgraph processors {
+    node [shape=triangle label="processor" width=1]
+    pr1; pr2;
+  }
+
+  g1 -> pr1 -> w1
+  g2 -> pr2 -> w1
+  g3 -> w1
+
+  w1 -> p1
+
+  p1 -> c1
+  p1 -> c2
+  p1 -> c3
+  p1 -> c4
+
+  w1 -> p2
+
+  p2 -> r1
+  p2 -> r2
+
+  r1 -> c5
+  r1 -> c6
+  r2 -> c7
+  r2 -> c8
+}
